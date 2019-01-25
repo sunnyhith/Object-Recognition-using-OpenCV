@@ -1,0 +1,7 @@
+List of all the references used for this project.
+[1] Xuelong Hu, Yingcheng Tang, Zhenghua Zhang, “Video Object Matching Based on SIFT Algorithm”, IEEE Int. Conference Neural Networks & Signal Processing Zhenjiang, China, June 2008.
+[2] Herbert Bay, Tinne Tuytelaars, Luc Van Gool, “SURF: Speeded Up Robust Features”, Katholieke Universiteit Leuven, September 2007
+[3] Rafael C. Gonzalez, Richard E. Woods, “Digital Image Processing”, 3rd Edition, Pearson Publications, pp. 23-50, 2008
+[4] D. Lowe, “Scale-Invariant Feature Transform”, University of British Columbia, 2004
+[5] Gary Bradski, Adrian Kaehler, “Learning OpenCV”, O'Reilly Media, 1st edition, pp. 1-29, 2008
+[6] OpenCV Documentation (https://docs.opencv.org/3.0-beta/index.html)
