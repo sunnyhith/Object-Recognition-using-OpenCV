@@ -1,2 +1,4 @@
 # Object-Recognition-using-OpenCV
-C++ | Microsoft Visual Studio
+Libraries - OpenCV
+Programming Language - C++ 
+IDE - Microsoft Visual Studio
